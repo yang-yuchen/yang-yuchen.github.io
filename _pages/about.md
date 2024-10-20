@@ -33,11 +33,3 @@ My name is Yuchen Yang, an undergraduate student majored in [Computer Engineerin
 
 My primary research interest is efficient machine learning and systems. I am also interested in security in machine learning and open to other areas.
 
-📬Email
-======
-
-***
-
-yuchen DOT yang AT outlook DOT com
-
-
