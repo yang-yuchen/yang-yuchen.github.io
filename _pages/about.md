@@ -13,7 +13,7 @@ redirect_from:
 
 ***
 
-My name is Yuchen Yang, an undergraduate student majored in [Computer Engineering](https://ece.illinois.edu/) at University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC) and [Zhejiang University](https://www.zju.edu.cn/) (ZJU), pursuing double degrees from UIUC and ZJU. During these years, I'm very fortunate to be advised by Prof. [Sasa Misailovic](https://misailo.cs.illinois.edu/) and Dr. [Gagandeep Singh](https://ggndpsngh.github.io/)  at UIUC and Dr. [Aili Wang](https://person.zju.edu.cn/en/ailiwang) at ZJU.
+My name is Yuchen Yang, an undergraduate student majored in [Computer Engineering](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC) and [Zhejiang University](https://www.zju.edu.cn/) (ZJU), pursuing double degrees from UIUC and ZJU. During these years, I'm very fortunate to be advised by Prof. [Sasa Misailovic](https://misailo.cs.illinois.edu/) and Dr. [Gagandeep Singh](https://ggndpsngh.github.io/)  at UIUC and Dr. [Aili Wang](https://person.zju.edu.cn/en/ailiwang) at ZJU.
 
 📚Education
 ======
