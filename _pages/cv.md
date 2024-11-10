@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Bachelor of Computer Engineering, University of Illinois Urbana-Champaign, 2021 - Present
