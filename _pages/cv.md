@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Engineering, University of Illinois Urbana-Champaign, 2021-Present
+* Bachelor of Computer Engineering, University of Illinois Urbana-Champaign, 2021 - Present
   * <i class="fas fa-award zoom" aria-hidden="true"></i> Dean’s List
-* Bachelor of Electronic and Computer Engineering, Zhejiang University, 2021-Present
+* Bachelor of Electronic and Computer Engineering, Zhejiang University, 2021 - Present
   * <i class="fas fa-award zoom" aria-hidden="true"></i> Excellence Studying Scholarship
 
 
 Experience
 ======
-* September 2023-Present: Research Assistant, University of Illinois Urbana-Champaign
-* May 2023–September 2024 : Research Assistant, ZJU-UIUC Institute
+* September 2023 - Present: Research Assistant, University of Illinois Urbana-Champaign
+* May 2023 – September 2024 : Research Assistant, ZJU-UIUC Institute
   
 
 Publications
