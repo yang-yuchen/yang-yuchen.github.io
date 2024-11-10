@@ -27,7 +27,7 @@ author:
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : #"Red Brick University"
-  uri              : "https://scholar.google.com/citations?user=Ii42C8gAAAAJ"
+  uri              : # URL
   email            : "yuchen.y@outlook.com" 
 
   # Academic websites
