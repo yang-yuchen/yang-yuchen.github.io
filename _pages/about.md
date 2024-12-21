@@ -31,5 +31,5 @@ My name is Yuchen Yang, an undergraduate student majored in [Computer Engineerin
 
 ***
 
-My primary research interest is efficient machine learning and systems. I am also interested in security in machine learning and open to other areas.
+My primary research interest is efficient deep learning systems. I aim to bridge this gap and develop hardware-aware systems algorithms and neural network compression methods for deep learning systems.
 
