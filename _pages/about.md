@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔍Bio
+Bio
 ======
 
 ***
@@ -16,7 +16,7 @@ I am a first-year Ph.D. student in the Department of Computer Science at the [Un
 
 Previously, I earned dual bachelor’s degrees in Computer Engineering from the UIUC and [Zhejiang University](https://www.zju.edu.cn/) (ZJU). During my undergraduate studies, I was advised by Prof. [Sasa Misailovic](https://misailo.cs.illinois.edu/) and Prof. [Gagandeep Singh](https://ggndpsngh.github.io/) at UIUC, and Prof. [Aili Wang](https://person.zju.edu.cn/en/ailiwang) at ZJU.
 
-📚Education
+Education
 ======
 
 ***
@@ -30,7 +30,7 @@ Previously, I earned dual bachelor’s degrees in Computer Engineering from the 
 **Zhejiang University**, 2021 - 2025
 * Bachelor of Electronic and Computer Engineering
 
-🔬Research Interest
+Research Interest
 ======
 
 ***
