@@ -24,8 +24,8 @@ author:
   avatar           : "profile1.jpg"
   name             : "Yuchen Yang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
+  bio              : "PhD Student, Siebel School of Computing and Data Science, UIUC"
+  location         : "Illinois, USA"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "yuchen.y@outlook.com" 
