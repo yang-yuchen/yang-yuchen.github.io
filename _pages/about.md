@@ -35,5 +35,5 @@ Research Interest
 
 ***
 
-My research interest lies in optimization of machine learning (ML) compilers, with a focus on balancing speed, accuracy, and robustness in neural network deployments.
+My research interest lies in ML systems and compiler optimization, with a focus on high-performance GPU kernel generation for attention-based models, as well as balancing speed, accuracy, and robustness in neural network deployments.
 
