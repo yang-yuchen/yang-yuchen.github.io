@@ -14,15 +14,15 @@ Under Review
   Yifan Zhao, **Yuchen Yang**, Matei Budiu, Minsoo Kim, Sasa Misailovic <br />
   Submitted to *OSDI 2026*
 
-* ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs <br />
-  **Yuchen Yang**, Yifan Zhao, Shubham Ugare, Gagandeep Singh, Sasa Misailovic <br />
-  Submitted to *ISSTA 2026* <br />
-[[Paper]](https://arxiv.org/abs/2410.24214)
-
 Published
 ======
 
 ***
+
+* ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs <br />
+  **Yuchen Yang**, Yifan Zhao, Shubham Ugare, Gagandeep Singh, Sasa Misailovic <br />
+  *ISSTA 2026* <br />
+[[Paper]](https://arxiv.org/abs/2410.24214)
 
 * NeuBridge: Bridging Quantized Activations and Spiking Neurons for ANN-SNN Conversion  <br />
   **Yuchen Yang**, Jingcheng Liu, Chengting Yu, Chengyi Yang, Gaoang Wang, Aili Wang <br />
