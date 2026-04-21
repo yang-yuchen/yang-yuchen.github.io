@@ -30,7 +30,8 @@ Publications
 ======
 * Nautilus: Auto-Scheduling Tensor Compiler for Advanced Fusion in Asynchronous and Pipelined GPU Kernels <br />
   Yifan Zhao, **Yuchen Yang**, Matei Budiu, Minsoo Kim, Sasa Misailovic <br />
-  Submitted to *ASPLOS 2027*
+  Submitted to *ASPLOS 2027* <br />
+[[Paper]](https://arxiv.org/abs/2604.14825)
 
 * ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs <br />
   **Yuchen Yang**, Yifan Zhao, Shubham Ugare, Gagandeep Singh, Sasa Misailovic <br />
