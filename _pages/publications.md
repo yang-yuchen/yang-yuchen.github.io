@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Under Review
+Preprints
 ======
 
 ***
@@ -13,8 +13,9 @@ Under Review
 * Nautilus: Auto-Scheduling Tensor Compiler for Advanced Fusion in Asynchronous and Pipelined GPU Kernels <br />
   Yifan Zhao, **Yuchen Yang**, Matei Budiu, Minsoo Kim, Sasa Misailovic <br />
   Submitted to *ASPLOS 2027*
+[[Paper]](https://arxiv.org/abs/2604.14825)
 
-Published
+Peer-Reviewed
 ======
 
 ***
