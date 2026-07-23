@@ -30,10 +30,18 @@ Education
 **Zhejiang University**, 2021 - 2025
 * Bachelor of Electronic and Computer Engineering
 
+Experience
+======
+
+***
+
+**NVIDIA**, May 2026 - Present
+* Compiler Intern
+* Developing agentic compiler testing infrastructure for TileIR
+
 Research Interest
 ======
 
 ***
 
 My research interest lies in ML systems and compiler optimization, with a focus on high-performance GPU kernel generation for attention-based models, as well as balancing speed, accuracy, and robustness in neural network deployments.
-

@@ -18,6 +18,8 @@ Education
 
 Experience
 ======
+* May 2026 - Present: Compiler Intern, NVIDIA
+  * Developing agentic compiler testing infrastructure for TileIR
 * August 2025 - Present: Research Assistant, University of Illinois Urbana-Champaign
   * Advised by Prof. Sasa Misailovic
 * September 2023 - May 2025: Research Assistant, University of Illinois Urbana-Champaign
@@ -28,9 +30,14 @@ Experience
 
 Publications
 ======
+* PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization <br />
+  **Yuchen Yang**, Yifan Zhao, Anisha Dasgupta, Sasa Misailovic <br />
+  *Preprint* <br />
+[[Paper]](https://arxiv.org/abs/2607.16184)
+
 * Nautilus: Auto-Scheduling Tensor Compiler for Advanced Fusion in Asynchronous and Pipelined GPU Kernels <br />
   Yifan Zhao, **Yuchen Yang**, Matei Budiu, Minsoo Kim, Sasa Misailovic <br />
-  Submitted to *ASPLOS 2027* <br />
+  *Preprint* <br />
 [[Paper]](https://arxiv.org/abs/2604.14825)
 
 * ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs <br />
