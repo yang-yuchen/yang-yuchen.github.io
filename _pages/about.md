@@ -35,9 +35,9 @@ Experience
 
 ***
 
-**NVIDIA**, May 2026 - Present
+**NVIDIA**, May 2026 - August 2026
 * Compiler Intern
-* Developing agentic compiler testing infrastructure for TileIR
+* Developed an agentic compiler test-generation framework for TileIR that automatically generates IR tests. It reduced the remaining coverage gap by half and found 300+ bugs
 
 Research Interest
 ======

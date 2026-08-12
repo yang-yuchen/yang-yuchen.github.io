@@ -18,8 +18,8 @@ Education
 
 Experience
 ======
-* May 2026 - Present: Compiler Intern, NVIDIA
-  * Developing agentic compiler testing infrastructure for TileIR
+* May 2026 - August 2026: Compiler Intern, NVIDIA
+  * Developed an agentic compiler test-generation framework for TileIR that automatically generates IR tests. It reduced the remaining coverage gap by half and found 300+ bugs
 * August 2025 - Present: Research Assistant, University of Illinois Urbana-Champaign
   * Advised by Prof. Sasa Misailovic
 * September 2023 - May 2025: Research Assistant, University of Illinois Urbana-Champaign
