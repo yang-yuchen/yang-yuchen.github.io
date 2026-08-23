@@ -35,8 +35,4 @@ Research Interests
 
 ***
 
-My research focuses on three complementary directions:
-
-* Efficient systems for serving modern LLMs and AI agents
-* AI agents for ML infrastructure and systems automation
-* Reliability and robustness in AI models and systems
+My research focuses on the systems foundations of modern AI. I am broadly interested in efficient serving and execution for large language models and AI agents, using AI agents to automate ML infrastructure, and improving reliability across AI models and systems.
