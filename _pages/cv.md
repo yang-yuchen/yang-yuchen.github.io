@@ -28,11 +28,6 @@ Experience
   * Advised by Prof. Aili Wang
 
 
-Academic Service
-======
-* Reviewer, NeurIPS 2026
-
-
 Publications
 ======
 * PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization <br />
@@ -54,3 +49,8 @@ Publications
   **Yuchen Yang**, Jingcheng Liu, Chengting Yu, Chengyi Yang, Gaoang Wang, Aili Wang <br />
   *Neuromorphic Computing and Engineering*, 2025 <br />
 [[Paper]](https://www.techrxiv.org/users/846156/articles/1234458-neubridge-bridging-quantized-activations-and-spiking-neurons-for-ann-snn-conversion)
+
+
+Academic Service
+======
+* Reviewer, NeurIPS 2026
