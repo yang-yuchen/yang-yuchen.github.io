@@ -35,4 +35,8 @@ Research Interests
 
 ***
 
-My research interests span machine learning systems, compilers, and efficient and reliable AI. I work on high-performance GPU kernel generation and scheduling, efficient model serving and quantization, and automated testing and optimization for ML compilers.
+My research focuses on three complementary directions:
+
+* Efficient systems for serving modern LLMs and AI agents
+* AI agents for ML infrastructure and systems automation
+* Reliability and robustness in AI models and systems
