@@ -30,15 +30,6 @@ Education
 **Zhejiang University**, 2021 - 2025
 * Bachelor of Electronic and Computer Engineering
 
-Experience
-======
-
-***
-
-**NVIDIA**, May 2026 - August 2026
-* Compiler Intern
-* Developed an agentic compiler test-generation framework for TileIR that automatically generates IR tests. It reduced the remaining coverage gap by half and found 300+ bugs
-
 Research Interest
 ======
 

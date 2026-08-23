@@ -28,6 +28,11 @@ Experience
   * Advised by Prof. Aili Wang
 
 
+Academic Service
+======
+* Reviewer, NeurIPS 2026
+
+
 Publications
 ======
 * PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization <br />
