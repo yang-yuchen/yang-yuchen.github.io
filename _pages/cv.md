@@ -11,7 +11,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Illinois Urbana-Champaign, 2025 - Present
 * B.S. in Computer Engineering, University of Illinois Urbana-Champaign, 2021 - 2025
-  * <i class="fas fa-award zoom" aria-hidden="true"></i> Dean's List, 2024
+  * <i class="fas fa-award zoom" aria-hidden="true"></i> Dean's List, 2023
 * B.Eng. in Electronic and Computer Engineering, Zhejiang University, 2021 - 2025
   * <i class="fas fa-award zoom" aria-hidden="true"></i> Excellence Studying Scholarship, 2021 & 2022 & 2024
 
